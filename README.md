@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kenankunc
 - 👀 I’m interested in Programming and automation
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on java learing
+- 🌱 I’m currently learning Test Automation
+- 💞️ I’m looking to collaborate on java learing and Test Automation
 - 📫 How to reach me kenankunc@gmail.com
 
 <!---
